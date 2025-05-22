@@ -65,7 +65,5 @@ The dataset covers borrower characteristics across various U.S. states.
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
 
