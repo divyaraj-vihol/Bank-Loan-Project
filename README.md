@@ -60,8 +60,6 @@ The dataset covers borrower characteristics across various U.S. states.
 
 ## 🧑‍💻 Author
 
-**Divyaraj Vihol**  
-
 🐙 [GitHub](https://github.com/divyaraj-vihol) 
 💼 [LinkedIn](https://www.linkedin.com/in/divyarajvihol/)
 
